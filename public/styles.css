@@ -1,0 +1,13 @@
+.btn{
+    border-radius: 12px;
+    font-size: 12px;
+}
+
+.btn-primary{
+    background: rgb(81, 139, 206);
+    border-color: rgb(81, 139, 206);
+}
+.btn-secondary{
+    background: rgb(70, 67, 67);
+    border-color: rgb(70, 67, 67);
+}
